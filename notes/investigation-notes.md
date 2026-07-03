@@ -6,7 +6,7 @@ Date:
 03 July 2026
 
 Analyst:
-Abhinav Kishore
+Abhinav Kishor
 
 Lab:
 Windows Defender Firewall Rule Modification Investigation
